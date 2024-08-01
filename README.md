@@ -1,0 +1,1 @@
+This is a C++ console application which offers user a range of fun and interactive activities on a dictionary file including looking up a word, adding new word, search for Palindromes, Rhyming Words and Guessing the forth word and so on.
